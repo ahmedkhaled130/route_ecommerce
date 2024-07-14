@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'package:dio/dio.dart';
 
-import 'strings.dart';
+import '../../../strings.dart';
 import 'package:flutter/foundation.dart';
 
 
