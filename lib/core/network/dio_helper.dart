@@ -1,9 +1,8 @@
 import 'dart:developer';
+
 import 'package:dio/dio.dart';
-
-import '../../../strings.dart';
 import 'package:flutter/foundation.dart';
-
+import 'package:route_eco_task/core/strings.dart';
 
 class DioHelper {
   static late Dio dio;
